@@ -3,7 +3,6 @@ body {
     margin: 0;
     padding: 0;
     animation: fadeIn 1s ease-in-out;
-    background-image: url(/image/kalli.png);
     background-size: 100%;
     font-family: "Rakkas", serif;
     background-color: #202020;
